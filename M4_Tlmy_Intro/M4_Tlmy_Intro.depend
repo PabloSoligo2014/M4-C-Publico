@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1723554257 source:d:\git\programacion\projects\m4_tlmy_intro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"TlmyProducer.h"
+
+1723553533 d:\git\programacion\projects\m4_tlmy_intro\tlmyproducer.h
+	<stdint.h>
+
+1723553741 source:d:\git\programacion\projects\m4_tlmy_intro\tlmyproducer.c
+	<stdio.h>
+	"TlmyProducer.h"
+
+1723554703 source:d:\git\m4-c-publico\m4_tlmy_intro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"TlmyProducer.h"
+
+1723553533 d:\git\m4-c-publico\m4_tlmy_intro\tlmyproducer.h
+	<stdint.h>
+
