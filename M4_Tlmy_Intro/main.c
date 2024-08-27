@@ -21,12 +21,10 @@ int main()
     for(i=0;i<HARDCODE_PKTS_COUNT;i++){
         if (getPktTlmy(buffer)){
             //Muestro solo los 20 primeros
-            map(buffer, /*PKT_SIZE*/ 20, sizeof(uint8_t), showHex);
+            map(buffer, /*PKT_SIZE*/20, sizeof(uint8_t), showHex);
             puts("");
         }
     }
-
-
     return 0;
 }
 

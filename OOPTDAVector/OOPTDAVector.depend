@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1724709538 source:d:\git\m4-c-publico\ooptdavector\main.c
+	<stdio.h>
+	<stdlib.h>
+	"OOPTDAVector.h"
+
+1724701655 source:d:\git\m4-c-publico\ooptdavector\ooptdavector.c
+	<stdlib.h>
+	<string.h>
+	"OOPTDAVector.h"
+
+1724701487 d:\git\m4-c-publico\ooptdavector\ooptdavector.h
+
